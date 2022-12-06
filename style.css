@@ -1,0 +1,6 @@
+.wrapper{
+  display: flex;
+}
+.child{
+  flex: 1;
+}
